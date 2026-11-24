@@ -158,8 +158,11 @@ When using these functions, report:
 
 If you use this toolbox in your research, please cite:
 
-Zappasodi F, Croce P.
-Scale-free Organization in Brain-state Dynamics via a Multivariater…. (to be updated upon publication)
+Zappasodi, F.; Croce, P. 
+Long-Range Temporal Correlations in Brain-State Dynamics via a Multivariate One-Hot Approach. 
+Int. J. Neur. Syst. 2027, 37 (05), 2750026. 
+https://doi.org/10.1142/S0129065727500262
+
 
 ## License
 
